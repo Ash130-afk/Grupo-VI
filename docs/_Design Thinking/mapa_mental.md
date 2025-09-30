@@ -20,7 +20,9 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
 ## Versão 1.0
  
 Mapa Mental
-<img width="1536" height="1024" alt="Plataforma de Monitoria Ibmec" src="https://github.com/user-attachments/assets/a3d4df74-b3e3-4b92-8e88-10d72bdb4024" />
+<img width="1536" height="1024" alt="Group 1" src="https://github.com/user-attachments/assets/ceda6c1b-c58e-4872-b1fb-3205ff4fe056" />
+
+
 
  
 <p align = "justify">
@@ -39,6 +41,7 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 | -- | -- | -- | -- |
 | dd/mm/yy | 1.0 | Criação do documento | xxx xxxx |
 | dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | xxxx xxxx |
+
 
 
 
