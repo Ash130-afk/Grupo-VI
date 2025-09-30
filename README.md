@@ -1,7 +1,8 @@
 # Projeto Front-End
+Alunos:Lucas Holanda, Joao Pedro Sampaio, Gabriel Aguiar, Rodrigo Mourão, Lucas Carvalho
 
 ## Sobre 
-Disciplina que planeja o desenvolvimento de um Front-End a partir de um kokushibo
+Disciplina que planeja o desenvolvimento de um Front-End a partir de um demanda externa
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
 
