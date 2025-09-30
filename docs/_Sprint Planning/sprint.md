@@ -11,11 +11,14 @@ title: Sprint Planning
 
 * **Presentes na reunião:** 
 
-|Nome|----|
-|LUCAS HOLANDA|----|
-|JOÃO PEDRO SAMPAIO|----|
-|GABRIEL AGUIAR|----|
+|LUCAS HOLANDA|
+
+|JOÃO PEDRO SAMPAIO|
+
+|GABRIEL AGUIAR|
+
 |LUCAS CARVALHO|
+
 |RODRIGO MOURÃO|
 
 ### Lista de Tarefas da Interação
