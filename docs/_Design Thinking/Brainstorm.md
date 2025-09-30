@@ -144,17 +144,10 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 ## Conclusão
 <p align = "justify">
-Através da aplicação da técnica, foi possível elicitar alguns dos primeiros requisitos do projeto.
+O brainstorm realizado permitiu estruturar de forma clara e criativa como funcionará o aplicativo de monitoria do Ibmec. Ao longo da atividade, conseguimos levantar ideias sobre os objetivos principais da aplicação, o processo de cadastro de alunos, o fluxo de agendamento de aulas, além de mapear as informações essenciais tanto para monitores quanto para alunos.
 </p>
-## Referências Bibliográficas
+
  
-> BARBOSA, S. D. J; DA SILVA, B. S. Interação humano-computador. Elsevier, 2010.
- 
- 
-## Autor(es)
-| Data | Versão | Descrição | Autor(es) |
-| -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
 
 
 
