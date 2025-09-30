@@ -88,9 +88,9 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 <b>Materiais de apoio</b> - Espaço para organizar e disponibilizar slides, apostilas, exercícios resolvidos ou links úteis para os alunos antes/depois da monitoria.
 
-Ferramentas de comunicação - Canal integrado de mensagens ou notificações rápidas para avisar sobre mudanças de horário, enviar lembretes ou tirar dúvidas pontuais.
+<b>Ferramentas de comunicação</b> - Canal integrado de mensagens ou notificações rápidas para avisar sobre mudanças de horário, enviar lembretes ou tirar dúvidas pontuais.
 
-Feedback e relatórios - Sistema de avaliação onde os alunos deixam feedback, além de estatísticas (quantidade de monitorias realizadas, número de alunos atendidos, taxas de presença).
+<b>Feedback e relatórios</b> - Sistema de avaliação onde os alunos deixam feedback, além de estatísticas (quantidade de monitorias realizadas, número de alunos atendidos, taxas de presença).
 
 
 ---
@@ -143,6 +143,7 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
 
