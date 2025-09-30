@@ -82,12 +82,15 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 4. Informações que possam auxiliar os monitores no aplicativo
 
 <p align = "justify">
-<b>XXXX</b> - Com a localização...
+<b>Agenda de monitorias</b> - Visualização clara das próximas aulas agendadas, com datas, horários, local/formato (presencial ou online) e lista de alunos confirmados.
  
-<b>YYYY</b> - O cliente...
+<b>Perfil dos alunos inscritos</b> -Informações básicas como nome, curso, período e disciplinas de interesse, ajudando o monitor a entender melhor o público que vai atender.
  
-<b>ZZZ</b> - O cliente...
- 
+<b>Materiais de apoio</b> - Espaço para organizar e disponibilizar slides, apostilas, exercícios resolvidos ou links úteis para os alunos antes/depois da monitoria.
+
+<b>Ferramentas de comunicação<\b> - Canal integrado de mensagens ou notificações rápidas para avisar sobre mudanças de horário, enviar lembretes ou tirar dúvidas pontuais.
+
+  <b> Feedback e relatórios<\b> - Sistema de avaliação onde os alunos deixam feedback, além de estatísticas (quantidade de monitorias realizadas, número de alunos atendidos, taxas de presença).
 ---
  
 ### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
@@ -138,6 +141,7 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
 
