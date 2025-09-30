@@ -112,15 +112,6 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  <b>Histórico e feedback</b> - Registro das aulas já realizadas e espaço para avaliar monitores, além de acompanhar seu próprio progresso em diferentes disciplinas.
 </p>
  
-### 6. Quais informações seriam interessante para o cliente?
-<p align = "justify">
-   <b>XXX</b> - Informações...
-   
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
-
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
-   
-</p>
  
 ### Requisitos elicitados
  
@@ -148,6 +139,7 @@ O brainstorm realizado permitiu estruturar de forma clara e criativa como funcio
 </p>
 
  
+
 
 
 
