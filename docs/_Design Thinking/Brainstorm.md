@@ -39,15 +39,14 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 2. Como será o processo para cadastrar um novo aluno com interesses nas funções\aulas da monitoria?
  
 <p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
+<b>.</b> - O aluno poderá criar uma conta com e-mail institucional, preencher informações básicas (nome, matrícula, curso) e selecionar as disciplinas/áreas de interesse.
  
-<b>YYYY</b> - O cliente...
+<b>.</b> - Após o login ele recebera um e-mail de confirmação (dentro de seu e-mail institucional da ibmec)
  
-<b>WWWW</b> - Com o usuário logado, ele deverá...
+<b>.</b> - Após a confirmação do aluno, ele tera acesso disponibilidade de aulas e tarefas oferecidas a monitoria, assim podendo escolher a de sua area de interesse
 
-<b>ZZZZ</b> - O cliente...
  
-<b>KKK</b> - O cliente...
+
  
 ---
  
@@ -127,6 +126,7 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
 
