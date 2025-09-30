@@ -55,9 +55,10 @@ title: Sprint Planning
 
 #### Pontos Negativos
 
-- 1
-- 2
-- 3
+- |Conflito de hoarios, poucas vezes conseguimos se reunir todos juntos|
+- | falta de experiencia sobre a funcionabilidade do git hub|
+- | tempo de desenvolvimento lento |
+  
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
 
