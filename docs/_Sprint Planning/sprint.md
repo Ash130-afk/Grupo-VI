@@ -12,24 +12,26 @@ title: Sprint Planning
 * **Presentes na reunião:** 
 
 |Nome|----|
-|----|----|
-|XXXX Xxxxx Xxxxx|----|
-|XXXX Xxxxx Xxxxx|----|
+|LUCAS HOLANDA|----|
+|JOÃO PEDRO SAMPAIO|----|
+|GABRIEL AGUIAR|----|
+|LUCAS CARVALHO|
+|RODRIGO MOURÃO|
 
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
 |---|----|
 | Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| xxxxx|
-| Criar issues no GitHub / ZenHub| xxxx|
+| Criar o repositório nos padrões (Organizar wiki).| Todos|
+| Criar issues no GitHub / ZenHub| João Pedro Sampaio e Lucas Holanda|
 | Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| [Documento de visão](https://github.com/xxx/xxx.md) ||
+| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Lucas Holanda e João Pedro Sampaio|
+| [Mapas Mentais](https://github.com/xxx/xxx.md) |Rodrigo Mourão|
+| [Brainstorming](https://github.com/XXXx) |Lucas Holanda e João Pedro Sampaio|
+|[Entrevistas](https://github.com/xxx/xxx.md) |Lucas Carvalho|
+|[Prototipação.](https://github.com/xxx/xxx.md) |Gabriel Aguiar|
 
 ### Sprint Retrospective/Review Meeting
 
@@ -44,8 +46,10 @@ title: Sprint Planning
 
 #### Pontos Positivos
 
-- 1
-- 2
+- |Equipe Motivada|
+- |Membros interresados|
+- |Otima comunicação nas Reunioes|
+- 
 
 ![pontos positivos](../assets/Sprints/S1-positivos.png)
 
@@ -65,8 +69,8 @@ title: Sprint Planning
 
 #### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
+- Reunião: Discord
+
 
 # Sprint II 
 
