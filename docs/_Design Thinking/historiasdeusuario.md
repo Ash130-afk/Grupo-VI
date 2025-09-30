@@ -35,7 +35,7 @@ A criação e o uso de histórias de usuário geralmente seguem esta metodologia
 
 ### História de Usuário
 
-**Administrador** 
+**ADMINISTRADOR** 
 
 Como um administrador, eu quero cadastrar novos monitores na plataforma para garantir que apenas alunos autorizados possam oferecer monitorias.
 
@@ -47,7 +47,7 @@ Como um administrador, eu quero gerenciar os horários e disciplinas disponívei
 
 Como um administrador, eu quero enviar comunicados gerais para todos os usuários da plataforma para divulgar informações importantes e manter a comunidade atualizada.
 
-**Monitor** 
+**MONITOR** 
 
 Como um monitor, eu quero cadastrar meus horários disponíveis para monitoria para que os alunos possam agendar sessões de forma prática.
 
@@ -61,7 +61,7 @@ Como um monitor, eu quero receber feedback dos alunos sobre minhas monitorias pa
 
 Como um monitor, eu quero gerar relatórios das monitorias realizadas e da presença dos alunos para acompanhar meu próprio desempenho e o engajamento dos alunos.
 
-**Aluno** 
+**ALUNO** 
 
 Como um aluno, eu quero criar e gerenciar meu perfil acadêmico para que eu possa selecionar minhas disciplinas de interesse e ter acesso às monitorias correspondentes.
 
