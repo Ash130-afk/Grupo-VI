@@ -50,7 +50,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 ---
  
-### 3. Como será a forma de adicionar produtos?
+### 3. Como vai funcionar o sistema de agendamento de aulas da monitoria?
  
 <p align = "justify">
 <b>XXXX</b> - O cliente ao cadastrar...
@@ -126,6 +126,7 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
 
