@@ -5,7 +5,7 @@ title: Brainstorm
  
 ## Introdução
 <p align = "justify">
-O brainstorm é uma técnica de elicitação de requisitos que consiste em reunir a equipe e discutir sobre diversos tópicos gerais do projeto apresentados no documento problema de negócio. No brainstorm o diálogo é incentivado e críticas são evitadas para permitir que todos colaborem com suas próprias ideias.
+O brainstorm é uma técnica de elicitação de requisitos que consiste em reunir a equipe e discutir sobre diversos tópicos gerais do projeto apresentados no documento problema de negócio. No brainstorm o diálogo é incentivado e críticas são evitadas para permitir que todos colaborem com suas próprias ideias. kokushibo
 </p>
  
 ## Metodologia
@@ -127,3 +127,4 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
