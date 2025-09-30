@@ -53,16 +53,28 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 3. Como vai funcionar o sistema de agendamento de aulas da monitoria?
  
 <p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
+<b>1) Seleção da disciplina</b> 
+- O aluno entra na plataforma e escolhe a disciplina ou área de estudo em que deseja ser atendido.
 </p>
  
 <p align = "justify">
-<b>YYYYY</b> - O produto tem...
+<b>2) Lista de monitores disponíveis</b>
+- O sistema mostra os monitores cadastrados para aquela disciplina, com informações como nome, horário disponível, formato (presencial ou online) e número de vagas.
 </p>
+<p>
+<b>3) Escolha da sessão</b> 
+- O aluno escolhe o horário e o monitor que melhor se encaixam em sua rotina. Caso haja limite de vagas, o sistema exibe quantas ainda estão livres.
  
-<b>ZZZZ</b> - O produto....
- 
-<b>XXXX</b> - O produto....
+<b>4) Confirmação do agendamento</b> 
+- Após a escolha, o aluno confirma sua participação na monitoria. O sistema reserva a vaga e envia uma notificação por e-mail/app.
+</p>
+<p>
+<b>5) Integração com agenda pessoal</b>
+- A aula é adicionada automaticamente à agenda do aluno dentro da plataforma, e pode também ser exportada para Google Calendar ou calendário do celular.
+
+<b>6) Lembrete e acesso</b>
+- Pouco antes da aula, o sistema envia um lembrete. Se for presencial, mostra o local; se for online, libera o link da sala virtual.
+</p>
 
  
 ---
@@ -126,6 +138,7 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
 
