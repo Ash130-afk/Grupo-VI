@@ -1,7 +1,7 @@
 # Projeto Front-End
 
 ## Sobre 
-Disciplina que planeja o desenvolvimento de um Front-End a partir de uma demanda externa. 
+Disciplina que planeja o desenvolvimento de um Front-End a partir de uma demanda exter
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
