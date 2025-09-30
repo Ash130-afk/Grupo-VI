@@ -98,9 +98,17 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 5. Informações que possam auxiliar os alunos no aplicativo
 <p align = "justify">
 <b>Agenda de aulas de monitoria</b> - Lista das próximas monitorias agendadas, com data, horário, formato (online/presencial) e localização/link de acesso.
+
+ 
  <b>Perfil dos monitores</b> - Informações sobre cada monitor: nome, curso, semestre, áreas de especialidade e avaliações de outros alunos.
+
+ 
  <b>Materiais de estudo</b> - Acesso a conteúdos compartilhados pelos monitores (apostilas, exercícios resolvidos, resumos, links externos).
+
+ 
  <b>Notificações e lembretes</b> - Alertas sobre aulas confirmadas, início próximo da monitoria, mudanças de horário ou abertura de novas vagas.
+
+ 
  <b>Histórico e feedback</b> - Registro das aulas já realizadas e espaço para avaliar monitores, além de acompanhar seu próprio progresso em diferentes disciplinas.
 </p>
  
@@ -147,6 +155,7 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
 
