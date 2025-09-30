@@ -22,16 +22,16 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
+<b>1</b> -  Deve ser uma plataforma onde qualquer pessoa possa encontrar, agendar e participar de monitorias oferecidas pelos alunos-monitores do Ibmec.
 </p>
  
-<b>ZZZ</b> - A plataforma deve fornece...
+<b>2</b> - A plataforma deve fornecer um ambiente centralizado e intuitivo para conectar alunos que precisam de apoio acadêmico com monitores disponíveis em diferentes disciplinas.
  
-<b>YYYY</b> - O objetivo da aplicação é....
+<b>3</b> - O objetivo da aplicação é....
  
-<b>WWWW</b> - O principal objetivo da aplicação é a...
+<b>4</b> - O principal objetivo da aplicação é a...
  
-<b>KKKK</b> - A plataforma deve gerenciar...
+<b>5</b> - A plataforma deve gerenciar...
 </p>
  
 ---
@@ -127,4 +127,5 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
