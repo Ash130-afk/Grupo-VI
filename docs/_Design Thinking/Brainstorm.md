@@ -22,16 +22,16 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>1</b> -  Deve ser uma plataforma onde qualquer pessoa possa encontrar, agendar e participar de monitorias oferecidas pelos alunos-monitores do Ibmec.
+<b>--</b> -  Deve ser uma plataforma onde qualquer pessoa possa encontrar, agendar e participar de monitorias oferecidas pelos alunos-monitores do Ibmec.
 </p>
  
-<b>2</b> - A plataforma deve fornecer um ambiente centralizado e intuitivo para conectar alunos que precisam de apoio acadêmico com monitores disponíveis em diferentes disciplinas.
+<b>--</b> - A plataforma deve fornecer um ambiente centralizado e intuitivo para conectar alunos que precisam de apoio acadêmico com monitores disponíveis em diferentes disciplinas.
  
-<b>3</b> - O objetivo da aplicação é....
+<b>--</b> - O objetivo da aplicação é facilitar o acesso a monitorias, organizar os horários e materiais, e promover o aprendizado colaborativo entre alunos.
  
-<b>4</b> - O principal objetivo da aplicação é a...
+<b>--</b> - O principal objetivo da aplicação é a melhoria da experiência de estudo, reduzindo a dificuldade de comunicação e marcação de encontros entre monitor e estudante.
  
-<b>5</b> - A plataforma deve gerenciar...
+<b>--</b> - A plataforma deve gerenciar cadastro de monitores, agendamento de aulas, lista de presença, feedback dos alunos e materiais de apoio, garantindo organização e transparência.
 </p>
  
 ---
@@ -127,5 +127,6 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
 
 
