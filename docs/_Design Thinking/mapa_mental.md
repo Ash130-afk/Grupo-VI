@@ -19,16 +19,9 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ## Versão 1.0
  
-### Mapa mental 1
- 
-[![Mapa mental Entrevista]
- 
- 
-### Mapa mental 2
- 
-[![Mapa mental Brainstorm]
- 
-## Conclusão
+Mapa Mental
+<img width="1536" height="1024" alt="Plataforma de Monitoria Ibmec" src="https://github.com/user-attachments/assets/a3d4df74-b3e3-4b92-8e88-10d72bdb4024" />
+
  
 <p align = "justify">
 O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, e ajuda a fixar os pontos mais importantes sobre o app.
@@ -46,5 +39,6 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 | -- | -- | -- | -- |
 | dd/mm/yy | 1.0 | Criação do documento | xxx xxxx |
 | dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | xxxx xxxx |
+
 
 
