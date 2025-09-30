@@ -1,5 +1,5 @@
 # Projeto Front-End
-Alunos:Lucas Holanda, João Pedro Sampaio, Gabriel Aguiar, Rodrigo Mourão, Lucas Carvalho
+Alunos: Lucas Holanda, João Pedro Sampaio, Gabriel Aguiar, Rodrigo Mourão, Lucas Carvalho
 
 ## Sobre 
 Disciplina que planeja o desenvolvimento de um Front-End a partir de um demanda externa
