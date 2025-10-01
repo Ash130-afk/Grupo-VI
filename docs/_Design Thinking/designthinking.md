@@ -67,14 +67,14 @@ Espaço para materiais de apoio (PDFs, slides, links).
 
 #### **3.4. Prototipagem**
 
-- **Descrição do Protótipo**: Começamos com esboços e transformamos em um wireframe no Miro para acompanhamento.
-- **Materiais Utilizados**: Até o momento, Miro e figma.
+- **Descrição do Protótipo**: Começamos com esboços e transformamos em um wireframe simples baseado em um site/aplicativo para inscrição.
+- **Materiais Utilizados**: Miro e VisualCode(html e css) 
 - **Testes Realizados**: Apresentação dos fluxos para alunos e simulações para entender como seria o programa na busca por adaptações.
 
 #### **3.5. Teste**
 
 - **Feedback dos Usuários**: Os alunos gostaram da ideia e deram sugestões para integrar os professores.
-- **Ajustes Realizados**: Antes pensado apenas para que os professores acompanhassem, adicionamos integração dos professores também no projeto, juntamente com os monitores.
+- **Ajustes Realizados**: Antes pensado apenas para que os monitores acompanhassem, adicionamos integração dos professores também no projeto, juntamente com os monitores.
 - **Resultados Finais**: Um conjunto validado de fluxos, protótipos e requisitos que servirão de guia para o desenvolvimento técnico.
 ---
 
@@ -85,6 +85,7 @@ Espaço para materiais de apoio (PDFs, slides, links).
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
 
 
 
