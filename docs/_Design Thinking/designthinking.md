@@ -53,7 +53,13 @@ Coordenador: Necessito de indicadores claros para gestão estratégica.
 #### **3.3. Ideação**
 
 - **Brainstorming**: 
-Método SCAMPER (Substituir, Combinar, Adaptar, Modificar, Propor outros usos, Eliminar, Reorganizar).
+Agenda centralizada: horários atualizados em tempo real.
+Check-in digital para alunos confirmarem presença.
+Relatórios automáticos de horas e atividades dos monitores.
+Canal de comunicação integrado entre monitores, professores e alunos.
+Notificações push sobre novas aulas, alterações ou cancelamentos.
+
+Espaço para materiais de apoio (PDFs, slides, links).
  **Seleção de Ideias**:
   Monitor: Registro de atividades + upload de materiais.
   Aluno: Consulta de horários de monitoria.
@@ -79,6 +85,7 @@ Método SCAMPER (Substituir, Combinar, Adaptar, Modificar, Propor outros usos, E
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
 
 
 
