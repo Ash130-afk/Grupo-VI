@@ -7,7 +7,7 @@ title: Design Thinking
 
 ### **1. Capa**
 
-- Título do Projeto: Auxílio Monitoria IBMEC
+- Título do Projeto: Nexus Monitorias: Conectando alunos, professores, monitor e coordenação.
 - Nome da Equipe: Lucas de C.Vilela, Lucas Holanda, João Pedro Sampaio, Gabriel Aguiar, Rodrigo Mourão
 
 ---
@@ -81,5 +81,6 @@ Método SCAMPER (Substituir, Combinar, Adaptar, Modificar, Propor outros usos, E
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
 
 
