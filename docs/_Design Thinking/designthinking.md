@@ -33,7 +33,7 @@ Inclusão de um sistema de agendamento (horários de monitoria).
 
 #### **3.1. Empatia**
 
-- **Pesquisa**: Entrevistas com monitores e alunos interessados em melhorias no programa de monitoria, analise comparativa com ferramentas já existentes, a exemplo do google classroom e trello.
+- **Pesquisa**: Entrevistas com monitores e alunos interessados em melhorias no programa de monitoria, analise comparativa com ferramentas já existentes.
 - **Insights**: Monitores possuem pouco contato com os alunos, professores não conseguem incentivar os alunos a ir até a monitoria por falta de integração, muitos alunos não sabem com clareza se quer os horários ou informações das aulas de monitorias, alguns alunos descobrem apenas após perder muitas aulas. 
 - **Personas**:
 Beatriz (Monitor): Preciso registrar atividades e comprovar horas sem burocracia.
@@ -79,6 +79,7 @@ Método SCAMPER (Substituir, Combinar, Adaptar, Modificar, Propor outros usos, E
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
 
 
 
