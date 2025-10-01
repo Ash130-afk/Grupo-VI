@@ -155,3 +155,6 @@ Nome do aluno: [___________]
 
 (Confirmar inscrição) [ Botão ]
 +--------------------------------------+
+
+
+**Conclusão**: O aplicativo de acompanhamento de monitorias na faculdade estabelece uma base estrutural para o seu desenvolvimento. Ao priorizar a disposição intuitiva dos elementos, as funcionalidades essenciais e os fluxos de interação adaptados para os perfis de aluno, professor, monitor e coordenador, os requisitos fundamentais do sistema foram mapeados de maneira clara, lógica e funcional. As telas propostas, incluindo login, cadastro, feed de monitorias, perfil e gerenciamento de monitorias, refletem as necessidades específicas de cada tipo de usuário, promovendo uma experiência acessível e eficiente. A definição de permissões por função reforça a segurança e a organização, garantindo que o sistema atenda aos objetivos de facilitar a gestão e participação em monitorias acadêmicas.
