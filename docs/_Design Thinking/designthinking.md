@@ -14,17 +14,17 @@ title: Design Thinking
 
 ### **2. Introdução**
 
-- **Contexto do Projeto**: O sistema atual de monitorias no IBMEC ainda é gerenciado por comunicação informal e muitos monitores se quer possuem grupos para avisos, se comunicando diretamente pelo professor, gerando ineficiências na organização e falta de acompanhamento consolidado. Essa ausência de padronização gera gargalos no registro de atividades, problemas de comunicação entre monitores e alunos e limita a transparência para a coordenação.
+- **Contexto do Projeto**: O programa de monitoria acadêmica desempenha um papel fundamental no apoio ao aprendizado dos alunos, mas enfrenta desafios que dificultam sua plena efetividade. Muitos estudantes não têm acesso rápido às informações sobre horários e conteúdos, professores encontram barreiras para acompanhar e incentivar a participação, monitores lidam com burocracias para registrar suas atividades e coordenadores carecem de dados consolidados para mensurar o impacto do programa.
 - **Objetivo**: Desenvolver uma plataforma digital integrada que:
 Centralize informações e registros.
 Facilite a comunicação entre monitores, professores, coordenadores e alunos.
 Gere indicadores para acompanhamento do programa de monitorias.
 
-- **Público-Alvo**: Alunos, professores e a coordenação dos cursos.
+- **Público-Alvo**: Alunos, professores, monitores e a coordenação dos cursos.
 
 - **Escopo**: 
 Desenvolvimento do front-end da aplicação web.
-Estruturação de três módulos principais: Monitor, Professor e aluno.
+Estruturação de três módulos principais: Monitor, Professor e aluno (E visualização da coordenação).
 Inclusão de um sistema de agendamento (horários de monitoria).
 
 ---
@@ -85,6 +85,7 @@ Espaço para materiais de apoio (PDFs, slides, links).
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
 
 
 
