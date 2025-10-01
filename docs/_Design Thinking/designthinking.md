@@ -16,15 +16,13 @@ title: Design Thinking
 
 - **Contexto do Projeto**: O sistema atual de monitorias no IBMEC ainda é gerenciado por comunicação informal e muitos monitores se quer possuem grupos para avisos, se comunicando diretamente pelo professor, gerando ineficiências na organização e falta de acompanhamento consolidado. Essa ausência de padronização gera gargalos no registro de atividades, problemas de comunicação entre monitores e alunos e limita a transparência para a coordenação.
 - **Objetivo**: Desenvolver uma plataforma digital integrada que:
-
 Centralize informações e registros.
 Facilite a comunicação entre monitores, professores, coordenadores e alunos.
 Gere indicadores para acompanhamento do programa de monitorias.
 
 - **Público-Alvo**: Alunos, professores e a coordenação dos cursos.
 - 
-- **Escopo**: Escopo do Projeto:
-
+- **Escopo**: 
 Desenvolvimento do front-end da aplicação web.
 Estruturação de três módulos principais: Monitor, Professor e aluno.
 Inclusão de um sistema de agendamento (horários de monitoria).
@@ -81,6 +79,7 @@ Método SCAMPER (Substituir, Combinar, Adaptar, Modificar, Propor outros usos, E
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
 
 
 
